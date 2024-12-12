@@ -1,5 +1,6 @@
 # holbertonschool-binary_trees
 ```
+
 This project implements various functions for working with binary trees in C. It includes operations such as creating nodes, inserting nodes, traversing trees, and analyzing tree properties.
 ```
 
